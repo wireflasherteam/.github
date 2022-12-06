@@ -10,5 +10,5 @@ Goals :
 * Collection Flash Tools 
 * Doc Flashing Android Phone
 Team :
-Android Flash Tool Search Team
+Android Flash Tool Search
 dindinG41TR3 - Afrzlfa - LoliC0d3
